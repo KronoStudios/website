@@ -1,13 +1,12 @@
 <template>
     <nav>
         <div class="nav-container">
-            <img src="@/assets/Logotipo-Kronos.png" alt="">
+            <img src="@/assets/logo.png" alt="">
             <div id="link-list">
-                <a href="#home" class="active">Home</a>
-                <a href="#about-us">About us</a>
-                <a href="#our-team">Our team</a>
-                <a href="#our-project">Our project</a>
-                <a href="#contact-us">Contact us</a>
+                <a href="#home" class="active">Inicio</a>
+                <a href="#about-us">Sobre nosotros</a>
+                <a href="#our-team">Nuestro equipo</a>
+                <a href="#our-project">Nuestro proyecto</a>
             </div>
         </div>
     </nav>
