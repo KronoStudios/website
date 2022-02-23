@@ -26,43 +26,39 @@
 			<h2 data-aos="fade-right" data-aos-duration="750">Nuestro equipo</h2>
 			<div class="team-cards">
 				<div class="card" data-aos="fade-up" data-aos-duration="750">
-					<img src="https://placekitten.com/250/350" alt="">
+					<img src="@/assets/guillem.png" alt="">
 					<p class="name">Guillem Caballé Tomàs</p>
 					<p>Founder | Fullstack dev</p>
 					<p>Soy técnico superior en desarrollo de aplicaciones web y multiplataforma. Gamer desde pequeño.</p>
 					<div class="socials">
-						<a href=""><font-awesome-icon :icon="['fab', 'twitter']" /></a>
-						<a href=""><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
+						<a href="https://www.linkedin.com/in/guillem-caball%C3%A9-tom%C3%A0s-230844164" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
 					</div>
 				</div>
 				<div class="card" data-aos="fade-up" data-aos-duration="750" data-aos-delay="250">
-					<img src="https://placekitten.com/250/350" alt="">
+					<img src="@/assets/marc.png" alt="">
 					<p class="name">Marc Fernández Parra</p>
 					<p>Founder | Fullstack dev</p>
 					<p>Soy desarrollador en Java con experiencia en android, y apasionado de los videojuegos.</p>
 					<div class="socials">
-						<a href=""><font-awesome-icon :icon="['fab', 'twitter']" /></a>
-						<a href=""><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
+						<a href="https://www.linkedin.com/in/marc-fernandez-a96868164/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
 					</div>
 				</div>
 				<div class="card" data-aos="fade-up" data-aos-duration="750" data-aos-delay="500">
-					<img src="https://placekitten.com/250/350" alt="">
+					<img src="@/assets/jimena.png" alt="">
 					<p class="name">Jimena Marin Ayoso</p>
 					<p>Founder | Freelance en Innovación</p>
 					<p>Soy estudiante en Ingenierìa y me considero buena en la planificación estratégica de las empresas.</p>
 					<div class="socials">
-						<a href=""><font-awesome-icon :icon="['fab', 'twitter']" /></a>
-						<a href=""><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
+						<a href="https://www.linkedin.com/in/jimena-marin-ayoso-a7a4b3182/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
 					</div>
 				</div>
 				<div class="card" data-aos="fade-up" data-aos-duration="750" data-aos-delay="750">
-					<img src="https://placekitten.com/250/350" alt="">
+					<img src="@/assets/german.png" alt="">
 					<p class="name">Germán Pérez Bordera</p>
 					<p>Founder | Fullstack dev</p>
 					<p>Soy desarrollador web, siempre aprendiendo nuevas tecnologías y frameworks.</p>
 					<div class="socials">
-						<a href=""><font-awesome-icon :icon="['fab', 'twitter']" /></a>
-						<a href=""><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
+						<a href="https://www.linkedin.com/in/germ%C3%A1n-p%C3%A9rez-bordera/" target="_blank"><font-awesome-icon :icon="['fab', 'linkedin']" /></a>
 					</div>
 				</div>
 			</div>
